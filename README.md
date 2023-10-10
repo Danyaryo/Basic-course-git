@@ -1,2 +1,2 @@
-<h1>Hello guys ini testing repo baru</h1>
-<p>Staging branch</p>
+<h1>Hello guys ini testing branch main</h1>
+<p>Main branch</p>
